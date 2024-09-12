@@ -1,0 +1,19 @@
+.pnkbkgrd {
+    background-color: #f9abb8;
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsl(120, 100%, 72%);
+    font-size: 24px;
+    font-weight: bold;
+}
